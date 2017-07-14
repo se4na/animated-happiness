@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /index.html
+Disallow: /*/index.*
+Disallow: /*%7B%7Broot_relative_url%7D%7D
+
+User-agent: Megalodon
+Disallow: /
+
+Sitemap: https://xn--bali-zp4ca0vb6n.tk/sitemaps.xml
